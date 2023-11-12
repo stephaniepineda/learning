@@ -16,3 +16,7 @@
    - At this point, all your changes have been committed to a LOCAL branch
 5. Push your changes to the remote version of your branch
    - `$ git push`
+
+## How to branch
+
+1. Go to GitHub repository, click on main in top left and create a new branch.
